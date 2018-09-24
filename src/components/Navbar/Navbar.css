@@ -1,0 +1,13 @@
+.navbar {
+    background-color: dimgray;
+}
+
+.navbar-brand {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+}
+
+#score {
+    font-size: 25px;
+    color: #c1c1c1;
+}

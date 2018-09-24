@@ -1,0 +1,14 @@
+img {
+  height: 130px;
+  width: 130px;
+}
+
+.img-container {
+  margin: 24px;
+  transition: transform .2s;
+}
+
+.img-container:hover {
+  transform: scale(1.05);
+  /* box-shadow: 0 -8px 4px dimgrey; */
+}

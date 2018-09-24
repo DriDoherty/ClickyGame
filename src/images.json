@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "img/Square1.png"
+  },
+  {
+    "id": 2,
+    "image": "img/Square2.png"
+  },
+  {
+    "id": 3,
+    "image": "img/Square3.png"
+  },
+  {
+    "id": 4,
+    "image": "img/Square4.png"
+  },
+  {
+    "id": 5,
+    "image": "img/Square5.png"
+  },
+  {
+    "id": 6,
+    "image": "img/Square6.png"
+  },
+  {
+    "id": 7,
+    "image": "img/Square7.png"
+  },
+  {
+    "id": 8,
+    "image": "img/Square8.png"
+  },
+  {
+    "id": 9,
+    "image": "img/Square9.png"
+  },
+  {
+    "id": 10,
+    "image":
+      "./img/Square10.png"
+  },
+  {
+    "id": 11,
+    "image": "img/Square11.png"
+  },
+  {
+    "id": 12,
+    "image":
+      "./img/Square12.png"
+  }
+]
